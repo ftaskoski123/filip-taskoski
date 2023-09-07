@@ -14,6 +14,7 @@ I'm a passionate and motivated computer science student based in Skopje, current
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=typescript)
 - ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=for-the-badge&logo=vue.js)
 - ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=for-the-badge&logo=firebase)
+- ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=for-the-badge&logo=cypress)
 - ![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=html5)
 - ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=css3)
 - ![Git / GitHub](https://img.shields.io/badge/-Git/GitHub-333333?style=for-the-badge&logo=github)
