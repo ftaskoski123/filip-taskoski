@@ -8,6 +8,7 @@ I'm a passionate and motivated computer science student based in Skopje, current
 - 📚 I'm constantly learning and exploring new technologies to expand my skill set.
 - 🤝 I'm open to collaboration on exciting projects and contributing to the tech community.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ftaskoski123)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ftaskoski123&show_icons=true&theme=radical)
 ## 🔧 Technologies I Work With:
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
