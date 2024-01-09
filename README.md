@@ -7,7 +7,7 @@ I'm a passionate and motivated computer science student based in Skopje, current
 - 🌐 I love building web applications that are not only functional but also aesthetically pleasing.
 - 📚 I'm constantly learning and exploring new technologies to expand my skill set.
 - 🤝 I'm open to collaboration on exciting projects and contributing to the tech community.
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ftaskoski123)](https://git.io/streak-stats)
 ## 🔧 Technologies I Work With:
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
