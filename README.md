@@ -24,3 +24,5 @@ I'm a passionate and motivated computer science student based in Skopje, current
 - Email: filip.taskoski77@gmail.com
 
 Feel free to connect with me and explore my projects. I'm always open to networking and collaborating on interesting projects. Let's code something awesome together! 🚀
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ftaskoski123)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ftaskoski123)](https://git.io/streak-stats)
