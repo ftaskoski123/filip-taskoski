@@ -17,7 +17,6 @@ I'm a passionate and motivated computer science student based in Skopje, current
 - ![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=html5)
 - ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=css3)
 - ![Git / GitHub](https://img.shields.io/badge/-Git/GitHub-333333?style=for-the-badge&logo=github)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ftaskoski123)](https://git.io/streak-stats)
 ## 📫 Get in Touch:
 
 - LinkedIn: https://www.linkedin.com/in/filip-taskoski-249796243/
