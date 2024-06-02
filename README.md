@@ -1,5 +1,5 @@
 # Hi there, I'm Filip Taskoski ! 👋
-I'm a passionate and motivated computer science student based in Skopje, currently pursuing my degree at the Faculty of Computer Science and Engineering. I have a strong affinity for web development, particularly in the realms of JavaScript, TypeScript, and Vue.js. Here's a bit more about me:
+I'm a passionate and motivated computer science student based in Skopje, currently pursuing my degree at the Faculty of Computer Science and Engineering. I have a strong affinity for full stack development, particularly in the realms of .NET, JavaScript, and TypeScript. Here's a bit more about me:
 
 - 🎓 I'm a 21-year-old undergraduate student.
 - 💻 My primary programming languages are JavaScript and TypeScript.
