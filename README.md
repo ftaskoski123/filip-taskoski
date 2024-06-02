@@ -3,7 +3,7 @@ I'm a passionate and motivated computer science student based in Skopje, current
 
 - 🎓 I'm a 21-year-old undergraduate student.
 - 💻 My primary programming languages are JavaScript, TypeScript, and C#.
-- 🌟 I have a keen interest in front-end development, and I'm proficient in Vue.js.
+- 🌟 I have a keen interest in both front-end and back-end development, and I'm proficient in Vue.js and .NET.
 - 🌐 I love building web applications that are not only functional but also aesthetically pleasing.
 - 📚 I'm constantly learning and exploring new technologies to expand my skill set.
 - 🤝 I'm open to collaboration on exciting projects and contributing to the tech community.
