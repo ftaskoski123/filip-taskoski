@@ -2,7 +2,7 @@
 I'm a passionate and motivated computer science student based in Skopje, currently pursuing my degree at the Faculty of Computer Science and Engineering. I have a strong affinity for full stack development, particularly in the realms of .NET, JavaScript, and TypeScript. Here's a bit more about me:
 
 - 🎓 I'm a 21-year-old undergraduate student.
-- 💻 My primary programming languages are JavaScript and TypeScript.
+- 💻 My primary programming languages are JavaScript, TypeScript, and C#.
 - 🌟 I have a keen interest in front-end development, and I'm proficient in Vue.js.
 - 🌐 I love building web applications that are not only functional but also aesthetically pleasing.
 - 📚 I'm constantly learning and exploring new technologies to expand my skill set.
