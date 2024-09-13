@@ -23,6 +23,6 @@ I'm a passionate and motivated computer science student based in Skopje, current
 ## 📫 Get in Touch:
 
 - LinkedIn: https://www.linkedin.com/in/filip-taskoski-249796243/
-- Email: filip.taskoski77@gmail.com
+- Email: taskoskif@gmail.com
 
 Feel free to connect with me and explore my projects. I'm always open to networking and collaborating on interesting projects. Let's code something awesome together! 🚀
